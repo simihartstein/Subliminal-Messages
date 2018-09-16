@@ -1,0 +1,11 @@
+﻿add icon:
+	keyword 1: brain,  eyes
+	keyword 2: flash/lightining, reminder
+	overlay two icons
+
+create settings window:
+	DataBind to Configuration model
+
+hook up trayicon context menu commands
+
+pause offtimer when context menu opens
