@@ -8,4 +8,4 @@ create settings window:
 
 hook up trayicon context menu commands
 
-pause offtimer when context menu opens
+preview text when configuring
